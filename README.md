@@ -2,7 +2,7 @@
 I'm a 26-year-old developer based in Italy, and I'm passionate about crafting digital experiences.
 
 - Check out my [portfolio](https://craescustefangabriel.com) to learn more about me.
-- Explore my [blog] where I might share insights and learnings.
+- Explore my [blog](https://craescustefangabriel.com/blog) where I might share insights and learnings.
 - Delve into [projects](https://craescustefangabriel.com/project) to see my current projects.
 
 ## 📦 Toolbox
@@ -14,7 +14,7 @@ I'm a 26-year-old developer based in Italy, and I'm passionate about crafting di
 
 ## ✨ Fun Facts 
 
-- I'm a great One Piece fan.
+- I'm a big One Piece fan.
 - As a kid, I wanted to be an astronomer.
 - Could not live without listening music 24/7.
 
