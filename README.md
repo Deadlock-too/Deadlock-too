@@ -1,5 +1,5 @@
 ### Hey, I'm Stefan 👋🏽
-I'm a 26-year-old developer based in Italy, and I'm passionate about crafting digital experiences.
+I'm a 27-year-old developer based in Italy, and I'm passionate about crafting digital experiences.
 
 - Check out my [portfolio](https://craescustefangabriel.com) to learn more about me.
 - Explore my [blog](https://craescustefangabriel.com/blog) where I might share insights and learnings.
