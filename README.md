@@ -5,6 +5,10 @@ I'm a 27-year-old developer based in Italy, and I'm passionate about crafting di
 - Explore my [blog](https://craescustefangabriel.com/blog) where I might share insights and learnings.
 - Delve into [projects](https://craescustefangabriel.com/project) to see my current projects.
 
+## 📈 Stats
+![](https://raw.githubusercontent.com/Deadlock-too/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Deadlock-too/github-stats-transparent/output/generated/languages.svg)
+
 ## 📦 Toolbox
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind`
 
